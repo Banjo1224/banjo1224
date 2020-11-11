@@ -24,7 +24,7 @@ Prior to my current training, I worked for years in the customer service and man
 ![Express.js](https://img.shields.io/badge/-Express.js-fff?)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?logo=Mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?logo=mysql)
-![CassandraDB](https://img.shields.io/badge/-Cassandra-fff?logo=Cassandra)
+![CassandraDB](https://img.shields.io/badge/-CassandraDB-fff?logo=Cassandra)
 
 #### Developer Tools
 ![Git](https://img.shields.io/badge/-Git-fff?logo=git)
