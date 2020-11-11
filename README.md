@@ -5,7 +5,7 @@
 Prior to my current training, I worked for years in the customer service and management field with a heavy focus on IT, process improvement, and project management. In every role I've filled, I've excelled at and exceeded the expectations provided to me. </h4>
 
 ## Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-lesliecrunkilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/banjo1224/)](https://www.linkedin.com/in/banjo1224/)
+[![Linkedin Badge](https://img.shields.io/badge/-banjo1224-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/banjo1224/)](https://www.linkedin.com/in/banjo1224/)
 [![Gmail Badge](https://img.shields.io/badge/-bbates377@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbates377@gmail.com)](mailto:bbates377@gmail.com)
 
 #### Front End
