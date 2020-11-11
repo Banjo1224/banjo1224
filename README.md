@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <h4>As a Software Engineer, I solve seemingly impossible problems on a regular basis. I am a hard worker, avid learner, and an ambitious developer. I thrive in both group-based and solo work, and have a hunger for mastering new technologies and techniques.
 
