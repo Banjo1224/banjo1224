@@ -39,8 +39,8 @@ Prior to my current training, I worked for years in the customer service and man
 
 <p align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=banjo1224&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banjo1224&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=banjo1224&hide=stars&show_icons=true&theme=vue&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banjo1224&count_private=true&theme=vue">
 
 </p>
 
