@@ -12,6 +12,7 @@ Prior to my current training, I worked for years in the customer service and man
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=000)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-fff?&logo=Vue.js)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=777)
 ![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass)
